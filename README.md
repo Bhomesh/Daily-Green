@@ -26,7 +26,7 @@ cd daily-greens
 Install dependencies:
 
 Copy code
-npm install
+`npm install`
 Create a .env file in the root directory of the project with the following content:
 
 bash
@@ -35,11 +35,11 @@ PORT=3000
 DB_URI=mongodb://localhost:27017/daily-greens
 Replace DB_URI with the MongoDB URI where you want to store the application data.
 
-Start the application:
+## Start the application:
 
-sql
+`sql
 Copy code
-npm start
+npm start`
 Access the application in your web browser at http://localhost:3000.
 
 Note: Make sure you have Node.js and MongoDB installed on your system before running the application.
