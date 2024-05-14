@@ -1,29 +1,34 @@
-# Daily-Greens
+# Project Name: Daily Greens
 
-Project Name: Daily Greens
+## Description
 
-Description:
 Daily Greens is a project aimed at promoting healthy eating habits by providing users with daily reminders to consume their greens. Whether it's spinach, kale, or broccoli, Daily Greens encourages users to incorporate more leafy vegetables into their diet for a healthier lifestyle.
 
-Features:
+## Features
 
-Daily reminders to eat greens.
-Customizable reminder times.
-Tracking of daily green consumption.
-Visual progress tracking.
-Instructions to Run:
+- Daily reminders to eat greens.
+- Customizable reminder times.
+- Tracking of daily green consumption.
+- Visual progress tracking.
+
+## Instructions to Run
+
+1. **Clone the repository to your local machine:**
+   ```bash
+   git clone https://github.com/yourusername/daily-greens.git
+   ```
 
 Clone the repository to your local machine:
 
-bash
-Copy code
-git clone ghttps://github.com/yourusername/daily-greens.git
 Navigate to the project directory:
 
+```
 bash
 Copy code
 cd daily-greens
-Install dependencies:
+```
+
+## Install dependencies:
 
 Copy code
 `npm install`
